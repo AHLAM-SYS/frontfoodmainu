@@ -11,7 +11,7 @@ const Signup = () => {
         e.preventDefault();  // Prevent default form submission
 
         try {
-            const response = await axios.post('http://localhost:5000/api/signup', {
+            const response = await axios.post('https://backendfood-7.onrender.com/api/signup', {
                 username,
                 email,
                 password,
