@@ -8,18 +8,18 @@ function Menu() {
 
     // Menu items
     const foodItems = [
-        { id: 1, name: 'Pizza', price: 12.99, image: '/images/pizza.jpg' },
-        { id: 2, name: 'Burger', price: 8.99, image: '/images/burger.jpg' },
-        { id: 3, name: 'Pasta', price: 10.99, image: '/images/pasta.jpg' },
-        { id: 4, name: 'Chicken', price: 16.99, image: '/images/chicken.jpg' },
-        { id: 5, name: 'Fish', price: 13.99, image: '/images/fish.jpg' },
-        { id: 6, name: 'Egg', price: 6.99, image: '/images/egg.jpg' },
-        { id: 7, name: 'Cupcake', price: 4.99, image: '/images/capcake1.jpg' },
-        { id: 8, name: 'Dark Cupcake', price: 6.99, image: '/images/capcake2.jpg' },
-        { id: 9, name: 'Vegetable', price: 5.99, image: '/images/vegitable.jpg' },
-        { id: 10, name: 'Juice', price: 6.99, image: '/images/juce.jpg' },
-        { id: 11, name: 'Fruits', price: 3.99, image: '/images/fruits.jpg' },
-        { id: 12, name: 'Ice Cream', price: 2.99, image: '/images/icecream.jpg' },
+        { id: 1, name: 'pizza', price: 12.99, image: '/images/pizza.jpg' },
+        { id: 2, name: 'burger', price: 8.99, image: '/images/burger.jpg' },
+        { id: 3, name: 'pasta', price: 10.99, image: '/images/pasta.jpg' },
+        { id: 4, name: 'chicken', price: 16.99, image: '/images/chicken.jpg' },
+        { id: 5, name: 'fish', price: 13.99, image: '/images/fish.jpg' },
+        { id: 6, name: 'egg', price: 6.99, image: '/images/egg.jpg' },
+        { id: 7, name: 'cupcake1', price: 4.99, image: '/images/capcake1.jpg' },
+        { id: 8, name: ' cupcake2', price: 6.99, image: '/images/capcake2.jpg' },
+        { id: 9, name: 'Vegitable', price: 5.99, image: '/images/vegitable.jpg' },
+        { id: 10, name: 'juce', price: 6.99, image: '/images/juce.jpg' },
+        { id: 11, name: 'fruits', price: 3.99, image: '/images/fruits.jpg' },
+        { id: 12, name: 'icecream', price: 2.99, image: '/images/icecream.jpg' },
     ];
 
     return (
